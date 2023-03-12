@@ -1,0 +1,8 @@
+C:\Users\Klara\source\repos\Calc3\bin\Debug\Calc3.exe.config
+C:\Users\Klara\source\repos\Calc3\bin\Debug\Calc3.exe
+C:\Users\Klara\source\repos\Calc3\bin\Debug\Calc3.pdb
+C:\Users\Klara\source\repos\Calc3\obj\Debug\Calc3.csproj.AssemblyReference.cache
+C:\Users\Klara\source\repos\Calc3\obj\Debug\Calc3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Klara\source\repos\Calc3\obj\Debug\Calc3.csproj.CoreCompileInputs.cache
+C:\Users\Klara\source\repos\Calc3\obj\Debug\Calc3.exe
+C:\Users\Klara\source\repos\Calc3\obj\Debug\Calc3.pdb
